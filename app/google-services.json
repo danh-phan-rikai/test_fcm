@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160411235388",
+    "project_id": "test-fcm-5bae8",
+    "storage_bucket": "test-fcm-5bae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160411235388:android:4bbbc6e4f1e378ec26ff39",
+        "android_client_info": {
+          "package_name": "rikai.testfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160411235388-pt11s0vo6hu2a58ivv2q23omoohe927e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSr0bebynCPxhC-beBhOZbP4N8UGK65Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160411235388-pt11s0vo6hu2a58ivv2q23omoohe927e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
